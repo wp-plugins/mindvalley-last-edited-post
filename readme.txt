@@ -35,6 +35,8 @@ You can only see the posts / pages you own.
 
 1. Last Edited metabox
 
+2. Hover Tooltip with Snippet
+
 
 
 == Changelog ==

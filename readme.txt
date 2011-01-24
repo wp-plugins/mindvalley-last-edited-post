@@ -8,6 +8,8 @@ Stable tag: 0.1
 
 Add a metabox that shows a list of last edited posts / pages by current user at the post edit page.
 
+
+
 == Description ==
 
 This plugin adds a metabox that shows up above the Publish metabox that shows your most recently edited post, along with a snippet.

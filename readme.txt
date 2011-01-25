@@ -38,7 +38,6 @@ You can only see the posts / pages you own.
 2. Hover Tooltip with Snippet
 
 
-
 == Changelog ==
 
 = 0.1 =
